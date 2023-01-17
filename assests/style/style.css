@@ -141,8 +141,70 @@ body p {
 	background-color:#4A50EC; 
 }
 
+.header {
+	font-size: 35px;
+	color: #4A50EC;
+	font-weight: bolder;
+}
+
 .btn {
 	text-align: center;
+}
+
+/* # About */
+
+.container-about {
+	display: flex;
+}
+
+.about {
+	text-align: center;
+	width: 50%;
+	flex-wrap: wrap;
+}
+
+.about-cont {
+	text-align: center;
+	width: 50%;
+	flex-wrap: wrap;
+}
+
+.about ,
+.about-cont {
+	padding: 80px;
+}
+
+.header1 {
+	font-size: 35px;
+	color: #4A50EC;
+	font-weight: bolder;
+}
+
+.a-b-text {
+	position: relative;
+	left: 280px;
+	height: 500px;
+	width: 300px;
+	text-align: center;
+	background-color: #4A50EC;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.cf {
+	height: 100px;
+}
+
+.about-cont button {
+	font-size: 14px;
+	color: #4A50EC;
+	border-radius: 50px;
+	width: 200px;
+	height: 45px;
+	text-transform: uppercase;
+	border: 1px solid white; 
+	font-weight: 600;
+	background-color:white; 
 }
 
 @media screen and (max-width: 854px) {
@@ -163,5 +225,43 @@ body p {
 		text-align: center;
 	}
 	
-
+	.about img {
+		position: relative;
+		left: 0px;
+		top: 60px;
+		height: 250px;
+	}
+	
+	.circle {
+		position: relative;
+		height: 150px;
+	}
+	
+	.container-about {
+		flex-wrap: wrap;
+	}
+	
+	.about-cont {
+		position: relative;
+		
+	}
+	
+	.about h3 {
+	position: absolute;
+	left: 0px;
+	font-size: 35px;
+	color: #4A50EC;
+	font-weight: bolder;
+	text-align: justify;	
+}
+	
+	.about,
+	.about-cont {
+		width: 100%;
+	}
+	
+	.a-b-text {
+		position: absolute;
+		left: 0px;
+		}
 }
