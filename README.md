@@ -16,7 +16,7 @@ In addition, we have a tracking system to help you monitor your progress and set
 
 At In Movement PT, we're committed to helping you achieve your best self, one workout at a time. Join us today and start your fitness journey with confidence and support."</p><br>
 
-![screenshot]()<br>
+![screenshot]("assests/images/project-screenshot.jpg")<br>
 
 <h2 align="center">UDX :</h2>
 
