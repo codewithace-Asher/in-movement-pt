@@ -1,6 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
 * {
-	margin: 0 ;
+	margin: 10px;
 	padding: 0;
 	box-sizing: border-box;
+	/*border: 1px solid black;*/
 }
 
+body {
+	background-color: #F9F3F3;
+	font-family: 'Courier Prime', monospace;
+}
+
+body h1 {
+	font-size: 22px;
+}
+
+body p {
+	font-size: 18px;
+}
+
+
+/* # Page-Top */
+
+.container,
+.logo,
+.nav,
+.nav li,
+.nav-list-main {
+	padding: 20px;
+}
+
+.logo {
+	margin-top: 40px;
+}
+
+.nav {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.nav li {
+	display: inline-block;
+}
+
+.nav li a {
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.nav-list-main {
+	font-size: 24px;
+}
+
+.nav-list-main a {
+	color: #4A50EC;
+	font-weight: 600;
+}
+
+.nav-list-btn button {
+	font-size: 14px;
+	background-color: #4A50EC;
+	border: 1px solid #4A50EC;
+	border-radius: 50px;
+	width: 200px;
+	height: 45px;
+	font-weight: 600;
+}
+
+.nav-list-btn button a{
+	color: white;
+}
+
+/* # Intro */
+
+.container-hm {
+	display: flex;
+	justify-content: center;
+}
+
+.contents {
+	padding: 30px;
+	flex-wrap:wrap;
+}
+
+
+.text {
+	position: relative;
+	top: -170px;
+	right: 50px;
+	max-width: 400px;
+	text-align: start;
+	padding: 20px;
+	background-color: #4A50EC;
+	z-index: 9;
+	border-radius: 20px;
+}
+
+.text button {
+	font-size: 14px;
+	color: #4A50EC;
+	border-radius: 50px;
+	width: 200px;
+	height: 45px;
+	text-transform: uppercase;
+	border: 1px solid white; 
+	font-weight: 600;
+}
+
+@media screen and (max-width: 854px) {
+	.contents {
+		padding: 0px 10px;
+	}
+	
+	.main img {
+		width: 100%;
+		height: auto;
+		z-index: -9;
+	}
+	
+	.text {
+		position: relative;
+		top: 1px;
+		left: 5px;
+		text-align: center;
+	}
+	
+
+}
