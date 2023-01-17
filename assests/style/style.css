@@ -260,7 +260,6 @@ body p {
 .note-text {
 	text-align: center;
 	padding: 20px;
-	text-align: center;
 	max-width: 700px;
 	height: auto;
 }
@@ -304,7 +303,6 @@ body p {
 	background-color: #4A50EC;
 	text-align: center;
 	padding: 20px;
-	text-align: center;
 	max-width: 700px;
 	height: auto;
 	border-radius: 10px;
@@ -489,6 +487,7 @@ fieldset {
 	}
 	
 	.about img {
+		margin-top: 4rem;
 		width: 200%;
 		position: relative;
 		right: 80px;
