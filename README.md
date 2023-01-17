@@ -20,7 +20,7 @@ At In Movement PT, we're committed to helping you achieve your best self, one wo
 
 <h2 align="center">UDX :</h2>
 
-<p align="center">This project is completely responsive on both a desktop and mobile.</p>
+<p align="center">This project is completely responsive on both a desktop and mobile.(Min width 403px) for best alignment.</p>
 <p align="center">
 - Informative<br>
 - Focus on Ease of Use<br>
