@@ -30,7 +30,7 @@ At In Movement PT, we're committed to helping you achieve your best self, one wo
 
 ---
 
-<img src="assests/images/under-1.png">
+<img src="assests/images/mobile-view.png">
 
 --- 
 
