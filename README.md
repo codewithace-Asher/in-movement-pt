@@ -34,7 +34,7 @@ At In Movement PT, we're committed to helping you achieve your best self, one wo
 
 --- 
 
-<p align="center"><a href="">----> Coming Soon <----</a></p>
+<p align="center"><a href="https://codewithace-asher.github.io/in-movement-pt/">----> Website Live <----</a></p>
 	
 ---
 
