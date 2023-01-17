@@ -30,11 +30,11 @@ At In Movement PT, we're committed to helping you achieve your best self, one wo
 
 ---
 
-<img src="">
+<img src="assests/images/under-1.png">
 
 --- 
 
-<p align="center"><a href="">----> Live Site <----</a></p>
+<p align="center"><a href="">----> Coming Soon <----</a></p>
 	
 ---
 
