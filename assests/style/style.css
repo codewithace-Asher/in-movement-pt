@@ -16,6 +16,11 @@ body h1 {
 	font-size: 22px;
 }
 
+body h2 {
+	font-size: 20px;
+}
+
+
 body p {
 	font-size: 18px;
 }
@@ -107,6 +112,32 @@ body p {
 	text-transform: uppercase;
 	border: 1px solid white; 
 	font-weight: 600;
+}
+
+/* # Consult */
+
+.consult-contents {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.sidebar {
+	margin-top: 10px;
+	text-align: center;
+	padding: 70px;
+}
+
+.sidebar button {
+	font-size: 14px;
+	color: white;
+	border-radius: 50px;
+	width: 200px;
+	height: 45px;
+	text-transform: uppercase;
+	border: 1px solid #4A50EC; 
+	font-weight: 600;
+	background-color:#4A50EC; 
 }
 
 @media screen and (max-width: 854px) {
