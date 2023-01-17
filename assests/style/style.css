@@ -74,7 +74,7 @@ body p {
 	font-weight: 600;
 }
 
-.nav-list-btn button a{
+.nav-list-btn button a {
 	color: white;
 }
 
@@ -114,6 +114,7 @@ body p {
 	font-weight: 600;
 }
 
+
 /* # Consult */
 
 .consult-contents {
@@ -138,6 +139,10 @@ body p {
 	border: 1px solid #4A50EC; 
 	font-weight: 600;
 	background-color:#4A50EC; 
+}
+
+.btn {
+	text-align: center;
 }
 
 @media screen and (max-width: 854px) {
