@@ -7,6 +7,10 @@
 	/*border: 1px solid black;*/
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	background-color: #F9F3F3;
 	font-family: 'Courier Prime', monospace;
